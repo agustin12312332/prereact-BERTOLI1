@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    color: red;
+    background-color: black;
+  }
+  .buttons{
+    display: flex;
+    justify-content: center;
+  }
+  .cart{
+    display: flex;
+    color: red;
+  }
